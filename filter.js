@@ -12,7 +12,7 @@
 (function() {
     'use strict';
 
-    const externalFileURL = "https://raw.githubusercontent.com/Eonarchy/p2025/refs/heads/main/filter.json"; // Replace with the URL to your JSON file
+    const externalFileURL = "https://cdn.jsdelivr.net/gh/Eonarchy/p2025/main/filter.json"; // Replace with the URL to your JSON file
     let keywords = [];
     let usernames = [];
 
